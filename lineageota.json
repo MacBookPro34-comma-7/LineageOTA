@@ -5,7 +5,7 @@
 		"MaxGithubReleasesPerRepo": 0,
 		"OldestGithubRelease": "",
 		"EnableLocalCache": false,
-		"EnableGithubCache": true,
+		"EnableGithubCache": false,
 		"LocalCacheTimeout": 86400,
 		"GithubCacheTimeout": 86400,
 		"OTAListTemplate": "ota-list-tables",
