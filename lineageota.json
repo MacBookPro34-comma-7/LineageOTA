@@ -1,6 +1,6 @@
 [
 	{
-		"DisableLocalBuilds": false,
+		"DisableLocalBuilds": true,
 		"DisableGithubBuilds": false,
 		"MaxGithubReleasesPerRepo": 0,
 		"OldestGithubRelease": "",
