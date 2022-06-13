@@ -47,8 +47,10 @@ jobs:
   deploy:
     name: Deploy
     runs-on: ubuntu-latest
-    environment: production
-
+    environment: 
+      name: freetier.hurrhnn.xyz
+      url: https://freetier.hurrhnn.xyz
+      
     steps:
     - name: Checkout
       uses: actions/checkout@v3
