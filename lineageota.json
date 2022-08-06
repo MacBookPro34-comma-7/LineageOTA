@@ -13,10 +13,12 @@
 		"LocalHomeURL": "",
 		"GithubHomeURL": "",
 		"DeviceNames": {
-			"jackpotlte": "SM-A530N"
+			"jackpotlte": "SM-A530N",
+			"jackpotveltedcm": "SM-A530D"
 		},
 		"DeviceVendors": {
-			"jackpotlte": "Samsung"
+			"jackpotlte": "Samsung",
+			"jackpotveltedcm": "Samsung"
 		}
 	}
 ]
