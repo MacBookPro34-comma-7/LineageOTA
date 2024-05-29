@@ -49,8 +49,8 @@ jobs:
     name: Deploy
     runs-on: ubuntu-latest
     environment: 
-      name: freetier.hurrhnn.xyz
-      url: https://freetier.hurrhnn.xyz
+      name: android.igmp.kr
+      url: https://android.igmp.kr
       
     steps:
     - name: Checkout
